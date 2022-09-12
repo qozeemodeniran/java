@@ -5,6 +5,10 @@ public class ForEach {
 		String[] names = {"Qozeem", "Banji", "Odeniran"};
 		
 		for(String name : names) {
+			if(name == "Banji") {
+//				continue;
+//				break;
+			}
 			System.out.println(name);
 		}
 	}
