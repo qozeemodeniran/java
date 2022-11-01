@@ -13,7 +13,8 @@ public class Encapsulation1 {
 	
 	// Setter method to set the value of the private variable
 	public void SetName(String newName) {
-		this.name = newName; // 'this' keyword is used to refer to the current object
+		this.name = newName; // 'this' keyword is used to refer to the current 
+		// object
 	}
 }
 
