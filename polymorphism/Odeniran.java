@@ -21,7 +21,7 @@ class Azeezat extends Odeniran {
     }
 }
 
-class Main {
+class MainOdeniran {
     public static void main(String arhs[]) {
         Ahmed objAhmed = new Ahmed();
         Azeezat objAzeezat = new Azeezat();

@@ -29,7 +29,7 @@ class MPH extends Faculty {
 }
 
 // java main method with subclasses objects
-class Main { 
+class MainFaculty { 
     public static void main(String[] args) {
         IT objIT = new IT();
         CS objCS = new CS();
