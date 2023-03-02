@@ -2,5 +2,5 @@ compile: javac filename.java
 run: java classfilename
 -------------------------------
 
-compile (with package name): javac -d ./filename.java
+compile (with package name): javac -d ./ filename.java
 run: java packagename.classname

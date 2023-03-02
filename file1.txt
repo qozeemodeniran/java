@@ -1,0 +1,2 @@
+Hey, the FileWriter class is usedd to write to file in java.
+Know this and know peace

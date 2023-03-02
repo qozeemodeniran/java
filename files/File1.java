@@ -5,6 +5,8 @@ import java.io.IOException;
 
 public class File1 {
     public static void main(String[] args) {
+
+        // creating file
         try {
             File file = new File("../file1.txt");
             if(file.createNewFile()) {
