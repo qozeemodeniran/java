@@ -9,7 +9,7 @@ public class File2 {
         // writing to file
         try {
             FileWriter file = new FileWriter("../file1.txt");
-            file.write("Hey, the FileWriter class is usedd to write to file in java.\r\nKnow this and know peace");
+            file.write("Hey, the FileWriter class is used to write to file in java.\r\nKnow this and know peace");
             file.close();
             System.out.println("You successfully wrote to the file.");
         } catch (IOException e) {

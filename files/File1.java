@@ -8,7 +8,7 @@ public class File1 {
 
         // creating file
         try {
-            File file = new File("../file1.txt");
+            File file = new File("../dummy.txt");
             if(file.createNewFile()) {
                 System.out.println("File successfully created! Filename: " + file.getName());
             } else {
